@@ -1,0 +1,33 @@
+*{ 
+
+margin: 0;
+padding: 0;
+}
+
+
+.inicio{ 
+background-color: #000000f1;
+ color: aliceblue;
+
+ display: flex;
+ justify-content: space-around;
+
+}
+.inicio-img{ 
+    width: 45%;
+}
+
+.inicio-item{ 
+
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
